@@ -10,7 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7b64ef89-65af-4190-b9e7-c926e68f1f9d" name="Default Changelist" comment="【20200401】增加文章">
+    <list default="true" id="7b64ef89-65af-4190-b9e7-c926e68f1f9d" name="Default Changelist" comment="【20200401】kafka">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/readme.txt" afterDir="false" />
     </list>
@@ -62,7 +62,7 @@
       <workItem from="1617262515715" duration="120000" />
       <workItem from="1617262656061" duration="3086000" />
       <workItem from="1617324441911" duration="9000" />
-      <workItem from="1617343157294" duration="23000" />
+      <workItem from="1617343157294" duration="1951000" />
     </task>
     <task id="LOCAL-00001" summary="【20200401】需要看的文章">
       <created>1617262838802</created>
@@ -78,7 +78,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617273847386</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="【20200401】kafka">
+      <created>1617343200189</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1617343200189</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -99,7 +106,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="【20200401】需要看的文章" />
     <MESSAGE value="【20200401】增加文章" />
-    <option name="LAST_COMMIT_MESSAGE" value="【20200401】增加文章" />
+    <MESSAGE value="【20200401】kafka" />
+    <option name="LAST_COMMIT_MESSAGE" value="【20200401】kafka" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1000" y="355" key="#Notifications" timestamp="1617263061147">
@@ -119,9 +127,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="645" y="267" key="FileChooserDialogImpl/0.0.1920.1040/-1366.156.1366.728@0.0.1920.1040" timestamp="1617262625231" />
-    <state x="-1143" y="265" key="Vcs.Push.Dialog.v2" timestamp="1617273848932">
-      <screen x="-1366" y="156" width="1366" height="728" />
+    <state x="313" y="156" key="Vcs.Push.Dialog.v2" timestamp="1617343201507">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="-1143" y="265" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1366.156.1366.728@-1366.156.1366.728" timestamp="1617273848932" />
+    <state x="313" y="156" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1366.156.1366.728@0.0.1920.1040" timestamp="1617343201507" />
   </component>
 </project>
