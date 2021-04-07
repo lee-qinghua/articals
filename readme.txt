@@ -15,3 +15,10 @@ https://blog.csdn.net/u011537073/article/details/78433108?ops_request_misc=%257B
 
 iceberg 实践demo
 https://blog.csdn.net/sinat_28007043/article/details/114960060
+iceberg实践之hive数据迁移
+https://www.jianshu.com/p/d2bd48ff7354
+
+【20210407】
+
+influx 相关文章（最下面）
+https://blog.hhui.top/hexblog/categories/DB/InfluxDB/
